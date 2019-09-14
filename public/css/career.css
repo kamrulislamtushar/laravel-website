@@ -1,0 +1,278 @@
+.sponsor-section {
+    background-color: white;
+    height: auto; }
+.sponsor-section .section-wrapper h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700; }
+.sponsor-section .section-wrapper h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 31px;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 150px;
+    text-transform: uppercase; }
+.sponsor-section .section-wrapper img {
+    height: 200px;
+    width: 200px; }
+
+.owl-theme .owl-dots {
+    text-align: center;
+    -webkit-tap-highlight-color: transparent; }
+.owl-theme .owl-dots .owl-dot {
+    display: inline-block;
+    zoom: 1; }
+.owl-theme .owl-dots .owl-dot span {
+    width: 20px;
+    height: 20px;
+    margin: 5px 7px;
+    background: #d1166d;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    border-radius: 30px; }
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #ffffff;
+    border: 2px solid #111111; }
+.owl-theme .owl-dots .owl-dot.active span {
+    background: #ffffff;
+    border: 2px solid #535250; }
+.owl-theme .owl-carousel .owl-dots.disabled,
+.owl-theme .owl-carousel .owl-nav.disabled {
+    display: none !important; }
+.owl-theme .no-js .owl-carousel,
+.owl-theme .owl-carousel.owl-loaded {
+    display: block; }
+.owl-theme .owl-carousel .owl-dots.disabled,
+.owl-theme .owl-carousel .owl-nav button {
+    display: none !important; }
+.speakers .owl-theme img {
+    height: 250px;
+    width: 130px; }
+
+.panelist .owl-theme img {
+    height: 250px;
+    width: 130px; }
+
+.owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+.owl-carousel button.owl-dot {
+    background: 0 0;
+    outline: none;
+    border: none;
+    padding: 0 !important;
+    color: transparent; }
+
+/*# sourceMappingURL=style.css.map */
+
+.speakers img {
+    height: 200px !important;
+    width: 200px !important;
+    border-radius: 50%;
+}
+.panelist img {
+    height: 200px !important;
+    width: 200px !important;
+    border-radius: 50%;
+}
+
+.speakers .speaker-details {
+    padding-top: 20px;
+    text-align: center;
+    padding-right: 30px;
+
+}
+
+.panelist .speaker-details {
+    padding-top: 20px;
+    text-align: center;
+    padding-right: 30px;
+
+}
+.pt-40 {
+    padding-top: 40px;
+}
+
+.sponsor-logo {
+
+    max-height: 100px;
+}
+
+.cdip {
+    max-height: 200px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+.sponsor-logos .owl-dot {
+    display: none!important;
+}
+.pt-55 {
+    padding-top: 55px;
+}
+.mt-50 {
+    margin-top: 38px;
+}
+
+.mt-117 {
+    margin-bottom: -117px!important;
+}
+
+.schedule td {
+    line-height: 2.4rem !important;
+    font-size: 15px!important;
+}
+.schedule th {
+    font-size: 17px!important;
+    line-height: 2.4rem !important;
+}
+.color-primary {
+    color: #f68b1f !important;
+}
+.career hr {
+    margin-top: 6px;
+    border: 0;
+    border-top: 1px solid #f68b1f;
+}
+
+.pt-10 {
+    padding-top: 10px!important;
+}
+.pt-25 {
+    padding-top: 25px;
+}
+
+.mt-minus-30 {
+    margin-top: -30px;
+}
+.augnitive {
+    width: auto;
+    height: 100px;
+    margin-left: 27px;
+}
+.db {
+    margin-left: -100px;
+}
+.p-lab {
+    padding-top: 56px;
+    margin-left: -53px;
+}
+.pl-105{
+    padding-left: 105px;
+}
+.cdip-logo {
+    margin-left: -75px;
+    margin-top: -10px;
+}
+.sponsor-title {
+    border-bottom: 2px solid #f68b1f;
+    padding-bottom: 20px;
+    font-size: 4.5rem;
+}
+.d-block {
+    display: block;
+}
+.dk-baburchi {
+    width: 170px;
+    margin-left: 51px;
+}
+.nascenia {
+    width: 331px;
+    padding-top: 33px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.stream-teach {
+    width: 276px;
+    padding-top: 10px
+}
+.speaker-details h3 {
+    color: #f68b1f;
+    font-weight: bold;
+}
+
+.speaker-details h5 {
+    font-size: 1.5rem;
+
+}
+.speaker-details p {
+    padding-top: 8px;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+
+.panelist-details h3 {
+    color: #f68b1f;
+    font-weight: bold;
+}
+
+.panelist-details h5 {
+    font-size: 1.5rem;
+
+}
+.panelist-details p {
+    padding-top: 8px;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.schedule-table thead {
+
+    background: #f68b1f;
+    padding-top: 10px;
+    color: white;
+}
+
+
+#countdown {
+    width: 100%;
+}
+label {
+    clear: both;
+    display: block;
+}
+#countdown span {
+
+    background: #fff;
+    color: #313233;
+    font-size: 23px;
+    font-weight: normal;
+    text-align: center;
+    width: 25%;
+    dispaly: block;
+    float: left;
+    border-right: 1px solid #ff7148;
+    padding: 5px;
+}
+#countdown span:last-child {
+    border-right: 1px solid #313233;
+}
+
+.data-soft {
+    max-height:  130px;
+}
+
+.bitmascot {
+    background: #716c6c;
+    padding: 11px;
+    margin-top: 65px;
+    margin-left: 60px;
+}
+.export-button {
+    margin-left: -25px;
+    padding-top: 32px;
+}
